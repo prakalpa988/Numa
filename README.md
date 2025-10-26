@@ -1,1 +1,2 @@
 # Numa
+Numa is a Python-based AI mental health assistant chatbot designed to interact empathetically with users by tracking their moods, analyzing mood trends, and offering personalized affirmations and coping strategies. Users can customize their experience by selecting affirmation styles, opting for anonymous mode for privacy, and choosing to receive motivational reminders. The app helps raise mental wellness awareness through supportive conversation and alerts users to seek help when detecting urgent keywords.
